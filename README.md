@@ -1,4 +1,4 @@
-# Vagrant on using VM on your local machine 
+# Vagrant-- using VM on your local machine 
 
 ## Learning so you can muster the use
 ### GOALS
